@@ -1,0 +1,28 @@
+# backups
+*~
+*.bak
+
+# LaTex
+*.aux
+*.log
+*.bbl
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.top
+*.mp
+*.tui
+*.blg
+
+# MacOS X
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+a.out
+__pycache__/
+*.py[cod]
+*$py.class
+
+
