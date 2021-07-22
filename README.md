@@ -10,11 +10,11 @@ Repository dedicato alla sperimentazione dell'insegnamento della Ricerca Operati
 - Eugenia Taranto ([eugenia.taranto@unict.it]() – Università degli Studi di Catania)
 
 
-## Update: 21 luglio 2021
-Nella cartella `ProjectWork-Iseo\Anno1` sono presenti tutte le slides in PDF del primo anno del Project Work presso l'Istituto Antonietti di Iseo (BS), assieme alla risoluzione di alcuni esercizi proposti attraverso Excel Solver.
+## Update: 22 luglio 2021
+Nella cartella `ProjectWork-Iseo\Anno1` sono state caricate tutte le slides in PDF del primo anno del Project Work presso l'Istituto Antonietti di Iseo (BS), assieme alla risoluzione di alcuni esercizi proposti attraverso Excel Solver.
 
 
-## Marzo 2021 – Maggio 2021
+## 08 marzo 2021 – 13 maggio 2021
 Avvio di un Project Work triennale in una classe terza del Liceo Scientifico indirizzo scienze applicate dell'Istituto di Istruzione Superiore Antonietti di Iseo (BS).
 
 In questo primo anno, sono stati tenuti sei incontri in compresenza con la Prof.ssa Marinella Picchi ([marinella.picchi@posta.istruzione.it]()), l'insegnante di Matematica e Fisica, per un totale di 23 ore. Ci si è dedicati alla Programmazione Lineare, alla formulazione di modelli matematici e alla loro risoluzione su carta o tramite l’utilizzo di strumenti informatici quali GeoGebra ed Excel Solver.
