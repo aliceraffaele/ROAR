@@ -12,6 +12,7 @@ Repository dedicato alla sperimentazione dell'insegnamento della Ricerca Operati
 
 ## Update: 22 luglio 2021
 Nella cartella `ProjectWork-Iseo\Anno1` sono state caricate tutte le slides in PDF del primo anno del Project Work presso l'Istituto Antonietti di Iseo (BS), assieme alla risoluzione di alcuni esercizi proposti attraverso Excel Solver.
+Presto saranno caricati i testi di tutti i problemi, sia in italiano sia in inglese.
 
 
 ## 08 marzo 2021 – 13 maggio 2021
