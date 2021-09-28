@@ -17,7 +17,7 @@ ROAR è un project work triennale, composto di tre unità didattiche:
 
 
 ## Update: 22 luglio 2021
-Nella cartella `ProjectWork-Iseo\Anno1` sono state caricate tutte le slides in PDF del primo anno del Project Work presso l'Istituto Antonietti di Iseo (BS), assieme alla risoluzione di alcuni esercizi proposti attraverso Excel Solver.
+Nella cartella `project-work-iseo\anno1` sono state caricate tutte le slides in PDF del primo anno del Project Work presso l'Istituto Antonietti di Iseo (BS), assieme alla risoluzione di alcuni esercizi proposti attraverso Excel Solver.
 Presto saranno caricati i testi di tutti i problemi, sia in italiano sia in inglese.
 
 
@@ -54,7 +54,7 @@ ROAR is a three-year project work, composed of three teaching units:
 
 
 ## Update: July 22, 2021
-In the `ProjectWork-Iseo\Anno1` folder, we uploaded the material of the first year of ROAR at the IIS Antonietti in Iseo (BS).
+In the `project-work-iseo\anno1` folder, we uploaded the material of the first year of ROAR at the IIS Antonietti in Iseo (BS).
 The material (in Italian) includes all the slides and the spreadsheets containing some exercises solved by using Excel Solver.
 In the next update, we will upload the texts of all problems, in both Italian and English versions.
 
