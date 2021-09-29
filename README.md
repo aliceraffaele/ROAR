@@ -16,6 +16,13 @@ ROAR è un project work triennale, composto di tre unità didattiche:
 - Eugenia Taranto ([eugenia.taranto@unict.it]() – Università degli Studi di Catania)
 
 
+## Update: 29 settembre 2021
+Nella cartella `material` sono state aggiunte due sottocartelle: `problems` e `group-projects`.
+
+La prima contiene i testi (in italiano e in inglese) di tutti i problemi utilizzati durante le attività di ROAR, suddivisi in base al livello di difficoltà (i.e., `beginner`, `intermediate` e `advanced`).
+
+La seconda contiene i testi (in italiano e in inglese) dei progetti di gruppo assegnati agli studenti. Al momento è presente solo `project1-super-amazing-market`, pensato per al massimo cinque gruppi di studenti che hanno seguito la prima unità didattica di ROAR.
+
 ## Update: 22 luglio 2021
 Nella cartella `project-work-iseo\anno1` sono state caricate tutte le slides in PDF del primo anno del Project Work presso l'Istituto Antonietti di Iseo (BS), assieme alla risoluzione di alcuni esercizi proposti attraverso Excel Solver.
 Presto saranno caricati i testi di tutti i problemi, sia in italiano sia in inglese.
@@ -52,6 +59,12 @@ ROAR is a three-year project work, composed of three teaching units:
 - Alice Raffaele ([alice.raffaele@univr.it]() – University of Verona)
 - Eugenia Taranto ([eugenia.taranto@unict.it]() – University of Catania)
 
+## Update: September 29, 2021
+In the `material` folder, we added the following two subfolders: `problems` and `group-projects`.
+
+The former contains the texts (in Italian and in English) of all the problems presented and used during the activities of ROAR. The problems are divided into categories according to their difficulty level (i.e., `beginner`, `intermediate`, and `advanced`).
+
+The latter contains the texts (in Italian and in English) of all the group projects assigned to students. For now, there is only `project1-super-amazing-market`, designed for at most five groups of students who attended the first teaching unit of ROAR.
 
 ## Update: July 22, 2021
 In the `project-work-iseo\anno1` folder, we uploaded the material of the first year of ROAR at the IIS Antonietti in Iseo (BS).
