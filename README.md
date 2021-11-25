@@ -15,6 +15,15 @@ ROAR è un project work triennale, composto di tre unità didattiche:
 - Alice Raffaele ([alice.raffaele@univr.it]() – Università degli Studi di Verona)
 - Eugenia Taranto ([eugenia.taranto@unict.it]() – Università degli Studi di Catania)
 
+**Mappa delle iniziative in Italia legate a ROAR**
+Potete dare un'occhiata alle varie iniziative che abbiamo sviluppato (o che sono ancora in corso) in questa [mappa](https://www.google.com/maps/d/u/0/edit?mid=1iWy89ah0TQaK-Ep3hY6EIfCGBQ73Tg6m&usp=sharing) realizzata con Google.
+
+## Update: 25 novembre 2021
+A fine ottobre è cominciato un corso di formazione per insegnanti tenuto da Gabriella Colajanni ed Eugenia Taranto, basato sui materiali della prima unità didattica di ROAR. Il corso, composto da quattro incontri, ha visto la partecipazione di una decina di insegnanti di scuole secondarie di secondo grado nelle province di Catania ed Enna.
+
+Il 23 novembre è inoltre cominciato un altro ciclo di quattro incontri, rivolto a una classe quinta dell'IIS Majorana-Cascino a Piazza Armerina (Enna), tenuto sempre da Gabriella Colajanni ed Eugenia Taranto.
+
+Entrambe le iniziative fanno parte del progetto [_Liceo Matematico_](http://web.dmi.unict.it/it/content/liceo-matematico) dell'Università degli Studi di Catania: 
 
 ## Update: 29 settembre 2021
 Nella cartella `material` sono state aggiunte due sottocartelle: `problems` e `group-projects`.
@@ -58,6 +67,16 @@ ROAR is a three-year project work, composed of three teaching units:
 - Alessandro Gobbi ([alessandro.gobbi@unibs.it]() – University of Brescia)
 - Alice Raffaele ([alice.raffaele@univr.it]() – University of Verona)
 - Eugenia Taranto ([eugenia.taranto@unict.it]() – University of Catania)
+
+**Map of ROAR initiatives in Italy**
+You can look at the several initiatives we have done (or are still ongoing) in this Google [map](https://www.google.com/maps/d/u/0/edit?mid=1iWy89ah0TQaK-Ep3hY6EIfCGBQ73Tg6m&usp=sharing).
+
+## Update: 25 novembre 2021
+At the end of October, Gabriella Colajanni and Eugenia Taranto started a training course addressed to higher-secondary school teachers, based on the material developed for the first teaching unit of ROAR. The course, composed of four meetings, is being attended by about ten teachers of institutes in the provinces of Catania and Enna.
+
+Also, on November 23rd, Gabriella Colajanni and Eugenia Taranto started another course of four meetings, addressed to a Grade-12 class of the IIS Majorana-Cascino in Piazza Armerina (Enna).
+
+Both the initiatives are part of the project [_Liceo Matematico_](http://web.dmi.unict.it/it/content/liceo-matematico) (i.e., in English, _Mathematics High School)_ by University of Catania.
 
 ## Update: September 29, 2021
 In the `material` folder, we added the following two subfolders: `problems` and `group-projects`.
