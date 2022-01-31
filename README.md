@@ -18,6 +18,13 @@ ROAR è un project work triennale, composto di tre unità didattiche:
 **Mappa delle iniziative in Italia legate a ROAR**
 Potete dare un'occhiata alle varie iniziative che abbiamo sviluppato (o che sono ancora in corso) in questa [mappa](https://www.google.com/maps/d/u/0/edit?mid=1iWy89ah0TQaK-Ep3hY6EIfCGBQ73Tg6m&usp=sharing) realizzata con Google.
 
+## 17 gennaio 2022 – fine aprile 2022
+Seconda parte del Project Work triennale, in una classe quarta del Liceo Scientifico indirizzo scienze applicate dell'Istituto di Istruzione Superiore Antonietti di Iseo (BS).
+
+In questo secondo anno terremo cinque incontri, per un totale di circa 20 ore stimate. Ci dedicheremo alla Teoria dei Grafi, introducendo i concetti di grafi indiretti e diretti, le loro nozioni fondamentali, gli algoritmi di Kruskal e Dijkstra, e problemi classici come il TSP e il VRP.
+
+Le lezioni sono svolte in classe, con la modalità della didattica digitale integrata attraverso Microsoft Teams. Durante ogni lezione, la maggior parte degli studenti è in presenza, mentre alcuni sono collegati in remoto per questioni di quarantena o isolamento per la COVID-19.
+
 ## Update: 25 novembre 2021
 A fine ottobre è cominciato un corso di formazione per insegnanti tenuto da Gabriella Colajanni ed Eugenia Taranto, basato sui materiali della prima unità didattica di ROAR. Il corso, composto da quattro incontri, ha visto la partecipazione di una decina di insegnanti di scuole secondarie di secondo grado nelle province di Catania ed Enna.
 
@@ -71,7 +78,14 @@ ROAR is a three-year project work, composed of three teaching units:
 **Map of ROAR initiatives in Italy**
 You can look at the several initiatives we have done (or are still ongoing) in this Google [map](https://www.google.com/maps/d/u/0/edit?mid=1iWy89ah0TQaK-Ep3hY6EIfCGBQ73Tg6m&usp=sharing).
 
-## Update: 25 novembre 2021
+## January 17, 2022 – End of April, 2022
+Second part of the three-year project work, in a Grade-11 class in the scientific high school IIS Antonietti in Iseo (BS).
+
+In this second year, we are going to hold five meetings, for a total of about 20 estimated hours. We focus on Graph Theory, by introducing the concepts of indirected and directed graphs, their fundamental notions, Kruskal's and Dijkstra's algorithms, and classical problems such as TSP and VRP.
+
+Lectures are held in the classroom, by exploiting digital teaching methods integrated through Microsoft Teams. During each lecture, most of the students are present, whereas some are connected remotely due to COVID-19 quarantine or isolation.
+
+## Update: November 25, 2021
 At the end of October, Gabriella Colajanni and Eugenia Taranto started a training course addressed to higher-secondary school teachers, based on the material developed for the first teaching unit of ROAR. The course, composed of four meetings, is being attended by about ten teachers of institutes in the provinces of Catania and Enna.
 
 Also, on November 23rd, Gabriella Colajanni and Eugenia Taranto started another course of four meetings, addressed to a Grade-12 class of the IIS Majorana-Cascino in Piazza Armerina (Enna).
