@@ -25,6 +25,10 @@ In questo secondo anno terremo cinque incontri, per un totale di circa 20 ore st
 
 Le lezioni sono svolte in classe, con la modalità della didattica digitale integrata attraverso Microsoft Teams. Durante ogni lezione, la maggior parte degli studenti è in presenza, mentre alcuni sono collegati in remoto per questioni di quarantena o isolamento per la COVID-19.
 
+Nella cartella `project-work-iseo\anno2` verranno man mano caricate tutte le slides in PDF di questo secondo anno di ROAR.
+In seguito saranno caricati i testi di tutti i problemi, sia in italiano sia in inglese.
+
+
 ## Update: 25 novembre 2021
 A fine ottobre è cominciato un corso di formazione per insegnanti tenuto da Gabriella Colajanni ed Eugenia Taranto, basato sui materiali della prima unità didattica di ROAR. Il corso, composto da quattro incontri, ha visto la partecipazione di una decina di insegnanti di scuole secondarie di secondo grado nelle province di Catania ed Enna.
 
@@ -84,6 +88,8 @@ Second part of the three-year project work, in a Grade-11 class in the scientifi
 In this second year, we are going to hold five meetings, for a total of about 20 estimated hours. We focus on Graph Theory, by introducing the concepts of indirected and directed graphs, their fundamental notions, Kruskal's and Dijkstra's algorithms, and classical problems such as TSP and VRP.
 
 Lectures are held in the classroom, by exploiting digital teaching methods integrated through Microsoft Teams. During each lecture, most of the students are present, whereas some are connected remotely due to COVID-19 quarantine or isolation.
+
+In the `project-work-iseo\anno2` folder, we are going to upload the material of this second year of ROAR. The material (in Italian) includes all the slides. In the next update, we will upload the texts of all problems, in both Italian and English versions.
 
 ## Update: November 25, 2021
 At the end of October, Gabriella Colajanni and Eugenia Taranto started a training course addressed to higher-secondary school teachers, based on the material developed for the first teaching unit of ROAR. The course, composed of four meetings, is being attended by about ten teachers of institutes in the provinces of Catania and Enna.
