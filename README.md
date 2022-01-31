@@ -46,8 +46,8 @@ Buona parte delle lezioni sono state svolte con la modalità della didattica a d
 
 Nel 2022, durante il secondo anno del progetto, saranno introdotti argomenti inerenti la Teoria dei Grafi.
 
-## Licenza d'uso: CC BY-NC-SA
-Tutto il materiale presente su questo repository può essere distribuito e modificato, ma non a scopi commerciali, a condizione che venga: riconosciuta una menzione di paternità adeguata, fornito un link alla licenza e indicato se sono state effettuate delle modifiche; e che alla nuova opera venga attribuita la stessa licenza dell'originale (quindi a ogni opera derivata non verrà consentito l'uso commerciale).
+## Licenza d'uso: CC BY-SA
+Permette di distribuire, modificare, creare opere derivate dall'originale, anche a scopi commerciali, a condizione che venga riconosciuta una menzione di paternità adeguata, fornito un link alla licenza e indicato se sono state effettuate delle modifiche; e che alla nuova opera venga attribuita la stessa licenza dell'originale (quindi a ogni opera derivata verrà consentito l'uso commerciale). Questa licenza, per certi versi, può essere ricondotta alle licenze "copyleft" del software libero e open source.
 
 Ci auguriamo che le slides e gli esercizi proposti vengano usati anche da altri ricercatori e/o docenti di scuola secondaria di secondo grado.
 
@@ -98,7 +98,7 @@ In this first year, we held six lectures (23 hours in total) together with the c
 Most of the lectures were held in distance-learning mode, by means of the Microsoft Teams platform, with 50% or 100% of the students remotely connected. Only the last lecture, when students presented their works, was held on-site with all the students.
 In 2022, in the second teaching unit of ROAR, we will concentrate on Graph Theory and some networks applications.
 
-## License: CC BY-NC-SA
-All material on this repository may be distributed and modified, but not for commercial purposes, provided that you: acknowledge adequate authorship; provide a link to the license; indicate if any changes have been made; assign to the new work the same license as the original (therefore any derivative work will not be permitted for commercial use).
+## License: CC BY-SA
+This license lets others remix, adapt, and build upon our work even for commercial purposes, as long as they credit us and license their new creations under the identical terms. This license is often compared to “copyleft” free and open source software licenses. All new works based on ours will carry the same license, so any derivatives will also allow commercial use.
 
 We hope that our material will be used by other researchers and/or secondary-school teachers.
