@@ -18,7 +18,7 @@ ROAR è un project work triennale, composto di tre unità didattiche:
 **Mappa delle iniziative in Italia legate a ROAR**
 Potete dare un'occhiata alle varie iniziative che abbiamo sviluppato (o che sono ancora in corso) in questa [mappa](https://www.google.com/maps/d/u/0/edit?mid=1iWy89ah0TQaK-Ep3hY6EIfCGBQ73Tg6m&usp=sharing) realizzata con Google.
 
-## 17 gennaio 2022 – fine aprile 2022
+## Update: 17 gennaio 2022 – fine aprile 2022
 Seconda parte del Project Work triennale, in una classe quarta del Liceo Scientifico indirizzo scienze applicate dell'Istituto di Istruzione Superiore Antonietti di Iseo (BS).
 
 In questo secondo anno terremo cinque incontri, per un totale di circa 20 ore stimate. Ci dedicheremo alla Teoria dei Grafi, introducendo i concetti di grafi indiretti e diretti, le loro nozioni fondamentali, gli algoritmi di Kruskal e Dijkstra, e problemi classici come il TSP e il VRP.
@@ -78,7 +78,7 @@ ROAR is a three-year project work, composed of three teaching units:
 **Map of ROAR initiatives in Italy**
 You can look at the several initiatives we have done (or are still ongoing) in this Google [map](https://www.google.com/maps/d/u/0/edit?mid=1iWy89ah0TQaK-Ep3hY6EIfCGBQ73Tg6m&usp=sharing).
 
-## January 17, 2022 – End of April, 2022
+## Update: January 17, 2022 – End of April, 2022
 Second part of the three-year project work, in a Grade-11 class in the scientific high school IIS Antonietti in Iseo (BS).
 
 In this second year, we are going to hold five meetings, for a total of about 20 estimated hours. We focus on Graph Theory, by introducing the concepts of indirected and directed graphs, their fundamental notions, Kruskal's and Dijkstra's algorithms, and classical problems such as TSP and VRP.
