@@ -51,7 +51,7 @@ Presto saranno caricati i testi di tutti i problemi, sia in italiano sia in ingl
 ## 08 marzo 2021 – 13 maggio 2021
 Avvio di un Project Work triennale in una classe terza del Liceo Scientifico indirizzo scienze applicate dell'Istituto di Istruzione Superiore Antonietti di Iseo (BS).
 
-In questo primo anno, sono stati tenuti sei incontri in compresenza con la Prof.ssa Marinella Picchi ([marinella.picchi@posta.istruzione.it]()), l'insegnante di Matematica e Fisica, per un totale di 23 ore. Ci si è dedicati alla Programmazione Lineare, alla formulazione di modelli matematici e alla loro risoluzione su carta o tramite l’utilizzo di strumenti informatici quali GeoGebra ed Excel Solver.
+In questo primo anno, sono stati tenuti sei incontri in compresenza con la Prof.ssa Marinella Picchi ([marinella.picchi@posta.istruzione.it](mailto:marinella.picchi@posta.istruzione.it)), l'insegnante di Matematica e Fisica, per un totale di 23 ore. Ci si è dedicati alla Programmazione Lineare, alla formulazione di modelli matematici e alla loro risoluzione su carta o tramite l’utilizzo di strumenti informatici quali GeoGebra ed Excel Solver.
 
 Buona parte delle lezioni sono state svolte con la modalità della didattica a distanza attraverso Microsoft Teams, con il 50% o anche il 100% degli studenti collegati in remoto. Soltanto l’ultima lezione si è tenuta totalmente in presenza, quando gli studenti hanno esposto dei lavori di gruppo.
 
@@ -114,7 +114,7 @@ In the next update, we will upload the texts of all problems, in both Italian an
 ## March 8, 2021 – May 13, 2021
 Start of the project work in a Grade-10 class of the scientific high school IIS Antonietti in Iseo (BS).
 Implementation of the first teaching unit of ROAR.
-In this first year, we held six lectures (23 hours in total) together with the classroom mathematics and physics teacher Marinella Picchi ([marinella.picchi@posta.istruzione.it]()). The main focus was put on Mathematical Modelling and Linear Programming, but also on using digital technologies such as GeoGebra and Excel Solver.
+In this first year, we held six lectures (23 hours in total) together with the classroom mathematics and physics teacher Marinella Picchi ([marinella.picchi@posta.istruzione.it](mailto:marinella.picchi@posta.istruzione.it)). The main focus was put on Mathematical Modelling and Linear Programming, but also on using digital technologies such as GeoGebra and Excel Solver.
 Most of the lectures were held in distance-learning mode, by means of the Microsoft Teams platform, with 50% or 100% of the students remotely connected. Only the last lecture, when students presented their works, was held on-site with all the students.
 In 2022, in the second teaching unit of ROAR, we will concentrate on Graph Theory and some networks applications.
 
