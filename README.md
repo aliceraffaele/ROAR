@@ -10,10 +10,10 @@ ROAR è un project work triennale, composto di tre unità didattiche:
 
 **Gruppo di ricerca:**
 
-- Gabriella Colajanni ([colajanni@dmi.unict.it]() – Università degli Studi di Catania)
-- Alessandro Gobbi ([alessandro.gobbi@unibs.it]() – Università degli Studi di Brescia)
-- Alice Raffaele ([alice.raffaele@univr.it]() – Università degli Studi di Verona)
-- Eugenia Taranto ([eugenia.taranto@unict.it]() – Università degli Studi di Catania)
+- Gabriella Colajanni ([colajanni@dmi.unict.it](colajanni@dmi.unict.it) – Università degli Studi di Catania)
+- Alessandro Gobbi ([alessandro.gobbi@unibs.it](alessandro.gobbi@unibs.it) – Università degli Studi di Brescia)
+- Alice Raffaele ([alice.raffaele@univr.it](alice.raffaele@univr.it) – Università degli Studi di Verona)
+- Eugenia Taranto ([eugenia.taranto@unict.it](eugenia.taranto@unict.it) – Università degli Studi di Catania)
 
 **Mappa delle iniziative in Italia legate a ROAR**
 Potete dare un'occhiata alle varie iniziative che abbiamo sviluppato (o che sono ancora in corso) in questa [mappa](https://www.google.com/maps/d/u/0/edit?mid=1iWy89ah0TQaK-Ep3hY6EIfCGBQ73Tg6m&usp=sharing) realizzata con Google.
