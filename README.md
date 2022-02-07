@@ -74,10 +74,10 @@ ROAR is a three-year project work, composed of three teaching units:
 
 **Research group:**
 
-- Gabriella Colajanni ([colajanni@dmi.unict.it]() – University of Catania)
-- Alessandro Gobbi ([alessandro.gobbi@unibs.it]() – University of Brescia)
-- Alice Raffaele ([alice.raffaele@univr.it]() – University of Verona)
-- Eugenia Taranto ([eugenia.taranto@unict.it]() – University of Catania)
+- Gabriella Colajanni ([colajanni@dmi.unict.it](mailto:colajanni@dmi.unict.it) – University of Catania)
+- Alessandro Gobbi ([alessandro.gobbi@unibs.it](mailto:alessandro.gobbi@unibs.it) – University of Brescia)
+- Alice Raffaele ([alice.raffaele@univr.it](mailto:alice.raffaele@univr.it) – University of Verona)
+- Eugenia Taranto ([eugenia.taranto@unict.it](mailto:eugenia.taranto@unict.it) – University of Catania)
 
 **Map of ROAR initiatives in Italy**
 You can look at the several initiatives we have done (or are still ongoing) in this Google [map](https://www.google.com/maps/d/u/0/edit?mid=1iWy89ah0TQaK-Ep3hY6EIfCGBQ73Tg6m&usp=sharing).
