@@ -6,7 +6,7 @@ ROAR è un project work triennale, composto di tre unità didattiche:
 
 1. Terza superiore: Modellizzazione matematica e Programmazione Lineare
 2. Quarta superiore: Teoria dei Grafi e applicazioni su reti
-3. Quinta superiore: Implementazione di alcuni metodi di Ricerca Operativa
+3. Quinta superiore: Implementazione di alcuni problemi e metodi di Ricerca Operativa
 
 **Gruppo di ricerca:**
 
@@ -18,7 +18,11 @@ ROAR è un project work triennale, composto di tre unità didattiche:
 **Mappa delle iniziative in Italia legate a ROAR**
 Potete dare un'occhiata alle varie iniziative che abbiamo sviluppato (o che sono ancora in corso) in questa [mappa](https://www.google.com/maps/d/u/0/edit?mid=1iWy89ah0TQaK-Ep3hY6EIfCGBQ73Tg6m&usp=sharing) realizzata con Google.
 
-## Update: 17 gennaio 2022 – fine aprile 2022
+## Update: 31 maggio 2022
+Nella cartella `project-work-iseo\anno2` sono state caricate tutte le slides in PDF del secondo anno del Project Work presso l'Istituto Antonietti di Iseo (BS). Presto saranno caricati i testi di tutti i problemi, sia in italiano sia in inglese.
+
+
+## Update: 17 gennaio 2022 – 23 aprile 2022
 Seconda parte del Project Work triennale, in una classe quarta del Liceo Scientifico indirizzo scienze applicate dell'Istituto di Istruzione Superiore Antonietti di Iseo (BS).
 
 In questo secondo anno terremo cinque incontri, per un totale di circa 20 ore stimate. Ci dedicheremo alla Teoria dei Grafi, introducendo i concetti di grafi indiretti e diretti, le loro nozioni fondamentali, gli algoritmi di Kruskal e Dijkstra, e problemi classici come il TSP e il VRP.
@@ -70,7 +74,7 @@ ROAR is a three-year project work, composed of three teaching units:
 
 1. Grade 10: Mathematical modelling and Linear Programming
 2. Grade 11: Graph Theory and Networks Applications
-3. Grade 12: Implementation of OR methods
+3. Grade 12: Implementation of OR problems and methods
 
 **Research group:**
 
@@ -82,10 +86,14 @@ ROAR is a three-year project work, composed of three teaching units:
 **Map of ROAR initiatives in Italy**
 You can look at the several initiatives we have done (or are still ongoing) in this Google [map](https://www.google.com/maps/d/u/0/edit?mid=1iWy89ah0TQaK-Ep3hY6EIfCGBQ73Tg6m&usp=sharing).
 
-## Update: January 17, 2022 – End of April, 2022
+## Update: May 31, 2022
+In the `project-work-iseo\anno2` folder, we uploaded the material of the second year of ROAR at the IIS Antonietti in Iseo (BS).
+The material (in Italian) includes all the slides used during the lectures. In the next update, we will upload the texts of all problems, in both Italian and English versions.
+
+## Update: January 17, 2022 – April 23, 2022
 Second part of the three-year project work, in a Grade-11 class in the scientific high school IIS Antonietti in Iseo (BS).
 
-In this second year, we are going to hold five meetings, for a total of about 20 estimated hours. We focus on Graph Theory, by introducing the concepts of indirected and directed graphs, their fundamental notions, Kruskal's and Dijkstra's algorithms, and classical problems such as TSP and VRP.
+In this second year, we are going to hold seven meetings, for a total of about 30 estimated hours. We focus on Graph Theory, by introducing the concepts of indirected and directed graphs, their fundamental notions, Kruskal's and Dijkstra's algorithms, and classical problems such as TSP and VRP.
 
 Lectures are held in the classroom, by exploiting digital teaching methods integrated through Microsoft Teams. During each lecture, most of the students are present, whereas some are connected remotely due to COVID-19 quarantine or isolation.
 
