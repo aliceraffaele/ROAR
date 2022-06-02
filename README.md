@@ -18,6 +18,14 @@ ROAR è un project work triennale, composto di tre unità didattiche:
 **Mappa delle iniziative in Italia legate a ROAR**
 Potete dare un'occhiata alle varie iniziative che abbiamo sviluppato (o che sono ancora in corso) in questa [mappa](https://www.google.com/maps/d/u/0/edit?mid=1iWy89ah0TQaK-Ep3hY6EIfCGBQ73Tg6m&usp=sharing) realizzata con Google.
 
+## Update: 02 giugno 2022
+Nella cartella `material`, nelle sottocartelle `problems` e `group-projects`, sono stati aggiunti i testi dei problemi e del progetto finale di ROAR II.
+
+In particolare, `problems` ora contiene tredici nuovi esercizi (aventi il prefisso “graphs”), così suddivisi in base al livello di difficoltà: sette nella cartella `beginner`, quattro nella cartella `intermediate` e due nella cartella `advanced`.
+
+Per quanto riguarda `group-projects`, è stata aggiunta la sottocartella `project2-vrp-challenge`, con il testo della challenge assegnata a tutti i gruppi su un Vehicle Routing Problem, le relative istanze e il tabellone usato dai gruppi per confrontarsi con gli altri. La metodologia didattica adottata in questo caso è quella del *competitive learning*.
+
+
 ## Update: 31 maggio 2022
 Nella cartella `project-work-iseo\anno2` sono state caricate tutte le slides in PDF del secondo anno del Project Work presso l'Istituto Antonietti di Iseo (BS). Presto saranno caricati i testi di tutti i problemi, sia in italiano sia in inglese.
 
@@ -85,6 +93,13 @@ ROAR is a three-year project work, composed of three teaching units:
 
 **Map of ROAR initiatives in Italy**
 You can look at the several initiatives we have done (or are still ongoing) in this Google [map](https://www.google.com/maps/d/u/0/edit?mid=1iWy89ah0TQaK-Ep3hY6EIfCGBQ73Tg6m&usp=sharing).
+
+## Update: June 02, 2022
+In the `material` folder, more precisely in the `problems` e `group-projects` subfolders, we added the texts of the problems and the group project used in the activities of ROAR II.
+
+In particolar, `problems` now contains thirteen new exercises (with the “graphs” prefix), divided as follows according to their difficulty level: seven exercises in the `beginner` folder, four in the `intermediate` folder, and two in the `advanced` folder.
+
+About `group-projects`, we added the `project2-vrp-challenge` subfolder, offering the text of challenge assigned to all the groups about a Vehicle Routing Problem, the related instances, and the scoreboard used by the groups to compare with the others. In this case, the teaching methodology adopted is *competitive learning*.
 
 ## Update: May 31, 2022
 In the `project-work-iseo\anno2` folder, we uploaded the material of the second year of ROAR at the IIS Antonietti in Iseo (BS).
