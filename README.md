@@ -33,7 +33,7 @@ Nella cartella `project-work-iseo\anno2` sono state caricate tutte le slides in 
 ## Update: 17 gennaio 2022 – 23 aprile 2022
 Seconda parte del Project Work triennale, in una classe quarta del Liceo Scientifico indirizzo scienze applicate dell'Istituto di Istruzione Superiore Antonietti di Iseo (BS).
 
-In questo secondo anno terremo cinque incontri, per un totale di circa 20 ore stimate. Ci dedicheremo alla Teoria dei Grafi, introducendo i concetti di grafi indiretti e diretti, le loro nozioni fondamentali, gli algoritmi di Kruskal e Dijkstra, e problemi classici come il TSP e il VRP.
+In questo secondo anno terremo sette incontri, per un totale di circa 30 ore stimate. Ci dedicheremo alla Teoria dei Grafi, introducendo i concetti di grafi indiretti e diretti, le loro nozioni fondamentali, gli algoritmi di Kruskal e Dijkstra, e problemi classici come il TSP e il VRP.
 
 Le lezioni sono svolte in classe, con la modalità della didattica digitale integrata attraverso Microsoft Teams. Durante ogni lezione, la maggior parte degli studenti è in presenza, mentre alcuni sono collegati in remoto per questioni di quarantena o isolamento per la COVID-19.
 
