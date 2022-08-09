@@ -16,7 +16,7 @@ ROAR è un project work triennale, composto di tre unità didattiche:
 - Eugenia Taranto ([eugenia.taranto@unict.it](mailto:eugenia.taranto@unict.it) – Università degli Studi di Catania)
 
 **Mappa delle iniziative in Italia legate a ROAR**
-Potete dare un'occhiata alle varie iniziative che abbiamo sviluppato (o che sono ancora in corso) in questa [mappa](https://www.google.com/maps/d/u/0/edit?mid=1iWy89ah0TQaK-Ep3hY6EIfCGBQ73Tg6m&usp=sharing) realizzata con Google.
+Potete dare un'occhiata alle varie iniziative che abbiamo sviluppato (o che sono ancora in corso) in questa [mappa](https://www.google.com/maps/d/u/7/edit?mid=1TZ_bkiA1J3df4AlVr38XmRQ9di1q2Lg&usp=sharing) realizzata con Google.
 
 ## Update: 02 giugno 2022
 Nella cartella `material`, nelle sottocartelle `problems` e `group-projects`, sono stati aggiunti i testi dei problemi e del progetto finale di ROAR II.
@@ -92,7 +92,7 @@ ROAR is a three-year project work, composed of three teaching units:
 - Eugenia Taranto ([eugenia.taranto@unict.it](mailto:eugenia.taranto@unict.it) – University of Catania)
 
 **Map of ROAR initiatives in Italy**
-You can look at the several initiatives we have done (or are still ongoing) in this Google [map](https://www.google.com/maps/d/u/0/edit?mid=1iWy89ah0TQaK-Ep3hY6EIfCGBQ73Tg6m&usp=sharing).
+You can look at the several initiatives we have done (or are still ongoing) in this Google [map](https://www.google.com/maps/d/u/7/edit?mid=1TZ_bkiA1J3df4AlVr38XmRQ9di1q2Lg&usp=sharing).
 
 ## Update: June 02, 2022
 In the `material` folder, more precisely in the `problems` e `group-projects` subfolders, we added the texts of the problems and the group project used in the activities of ROAR II.
