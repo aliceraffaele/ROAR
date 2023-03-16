@@ -18,6 +18,14 @@ ROAR è un project work triennale, composto di tre unità didattiche:
 **Mappa delle iniziative in Italia legate a ROAR**
 Potete dare un'occhiata alle varie iniziative che abbiamo sviluppato (o che sono ancora in corso) in questa [mappa](https://www.google.com/maps/d/u/7/edit?mid=1TZ_bkiA1J3df4AlVr38XmRQ9di1q2Lg&usp=sharing) realizzata con Google.
 
+## Update: 16 marzo 2023
+Nella cartella `material`, nelle sottocartelle `problems` e `group-projects`, sono stati aggiunti i testi dei problemi e del progetto finale di ROAR III.
+
+In particolare, `problems` ora contiene cinque esercizi completamente nuovi con la loro implementazione in Python+PuLP e anche per altri cinque precedenti esercizi è stato caricato lo script corrispondente.
+
+Per quanto riguarda `group-projects`, è stata aggiunta la sottocartella `project3-filtrec`, con il testo del problema aziendale assegnato dall'azienda [Filtrec S.p.A.](https://www.filtrec.com/it/) e i modelli della versione preliminare e definitiva. La metodologia didattica adottata in questo caso è stata quella del *cooperative learning*.
+
+
 ## Update: 02 giugno 2022
 Nella cartella `material`, nelle sottocartelle `problems` e `group-projects`, sono stati aggiunti i testi dei problemi e del progetto finale di ROAR II.
 
@@ -46,7 +54,7 @@ A fine ottobre è cominciato un corso di formazione per insegnanti tenuto da Gab
 
 Il 23 novembre è inoltre cominciato un altro ciclo di quattro incontri, rivolto a una classe quinta dell'IIS Majorana-Cascino a Piazza Armerina (Enna), tenuto sempre da Gabriella Colajanni ed Eugenia Taranto.
 
-Entrambe le iniziative fanno parte del progetto [_Liceo Matematico_](http://web.dmi.unict.it/it/content/liceo-matematico) dell'Università degli Studi di Catania: 
+Entrambe le iniziative fanno parte del progetto [_Liceo Matematico_](http://web.dmi.unict.it/it/content/liceo-matematico) dell'Università degli Studi di Catania:
 
 ## Update: 29 settembre 2021
 Nella cartella `material` sono state aggiunte due sottocartelle: `problems` e `group-projects`.
@@ -94,8 +102,15 @@ ROAR is a three-year project work, composed of three teaching units:
 **Map of ROAR initiatives in Italy**
 You can look at the several initiatives we have done (or are still ongoing) in this Google [map](https://www.google.com/maps/d/u/7/edit?mid=1TZ_bkiA1J3df4AlVr38XmRQ9di1q2Lg&usp=sharing).
 
+## Update: March 16, 2023
+In the `material` folder, more precisely in the `problems` and `group-projects` subfolders, we added the texts of the problems and the final project of ROAR III.
+
+In particular, `problems` now contains five completely new exercises with their implementation in Python+PuLP and also, for other five previous exercises, their corresponding script has been loaded.
+
+Concerning `group-projects`, we added the `project3-filtrec` subfolder, containing the text of the problem assigned to the students by the company [Filtrec S.p.A.](https://www.filtrec.com/it/) and the mathematical models of the preliminary and final version of the problem. The teaching methodology adopted in this case was that of *cooperative learning*.
+
 ## Update: June 02, 2022
-In the `material` folder, more precisely in the `problems` e `group-projects` subfolders, we added the texts of the problems and the group project used in the activities of ROAR II.
+In the `material` folder, more precisely in the `problems` and `group-projects` subfolders, we added the texts of the problems and the group project used in the activities of ROAR II.
 
 In particolar, `problems` now contains thirteen new exercises (with the “graphs” prefix), divided as follows according to their difficulty level: seven exercises in the `beginner` folder, four in the `intermediate` folder, and two in the `advanced` folder.
 
