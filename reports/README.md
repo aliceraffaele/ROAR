@@ -20,7 +20,7 @@ Presentazioni e articoli scientifici relativi alle attività di ROAR.
 ENGLISH VERSION
 # ROAR – Reports
 
-Presentations and scientific papers related to ROAR activities.
+Presentations and scientific papers related to the ROAR activities.
 
 **List of available reports:**
 
