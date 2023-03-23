@@ -18,7 +18,7 @@ ROAR è un project work triennale, composto di tre unità didattiche:
 **Mappa delle iniziative in Italia legate a ROAR**
 Potete dare un'occhiata alle varie iniziative che abbiamo sviluppato (o che sono ancora in corso) in questa [mappa](https://www.google.com/maps/d/u/7/edit?mid=1TZ_bkiA1J3df4AlVr38XmRQ9di1q2Lg&usp=sharing) realizzata con Google.
 
-## Update: 16 marzo 2023
+## Update: 23 marzo 2023
 Nella cartella `material`, nelle sottocartelle `problems` e `group-projects`, sono stati aggiunti i testi dei problemi e del progetto finale di ROAR III.
 
 In particolare, `problems` ora contiene cinque esercizi completamente nuovi con la loro implementazione in Python+PuLP e anche per altri cinque precedenti esercizi è stato caricato lo script corrispondente.
@@ -102,7 +102,7 @@ ROAR is a three-year project work, composed of three teaching units:
 **Map of ROAR initiatives in Italy**
 You can look at the several initiatives we have done (or are still ongoing) in this Google [map](https://www.google.com/maps/d/u/7/edit?mid=1TZ_bkiA1J3df4AlVr38XmRQ9di1q2Lg&usp=sharing).
 
-## Update: March 16, 2023
+## Update: March 23, 2023
 In the `material` folder, more precisely in the `problems` and `group-projects` subfolders, we added the texts of the problems and the final project of ROAR III.
 
 In particular, `problems` now contains five completely new exercises with their implementation in Python+PuLP and also, for other five previous exercises, their corresponding script has been loaded.
