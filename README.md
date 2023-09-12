@@ -13,7 +13,7 @@ ROAR è un project work triennale, composto di tre unità didattiche:
 - Gabriella Colajanni ([gabriella.colajanni@unict.it](mailto:gabriella.colajanni@unict.it) – Università degli Studi di Catania)
 - Alessandro Gobbi ([alessandro.gobbi@unibs.it](mailto:alessandro.gobbi@unibs.it) – Università degli Studi di Brescia)
 - Alice Raffaele ([araffaele@dei.unipd.it](mailto:araffaele@dei.unipd.it) – Università della Calabria & Università degli Studi di Padova)
-- Eugenia Taranto ([eugenia.taranto@unikore.it](mailto:eugenia.taranto@unikore.it) – Università degli Studi di Catania)
+- Eugenia Taranto ([eugenia.taranto@unikore.it](mailto:eugenia.taranto@unikore.it) – Università degli Studi di Enna Kore)
 
 **Mappa delle iniziative in Italia legate a ROAR**
 Potete dare un'occhiata alle varie iniziative che abbiamo sviluppato (o che sono ancora in corso) in questa [mappa](https://www.google.com/maps/d/u/7/edit?mid=1TZ_bkiA1J3df4AlVr38XmRQ9di1q2Lg&usp=sharing) realizzata con Google.
@@ -94,10 +94,10 @@ ROAR is a three-year project work, composed of three teaching units:
 
 **Research group:**
 
-- Gabriella Colajanni ([gabriella.colajanni@unict.it](mailto:gabriella.colajanni@unict.it) – Università degli Studi di Catania)
-- Alessandro Gobbi ([alessandro.gobbi@unibs.it](mailto:alessandro.gobbi@unibs.it) – Università degli Studi di Brescia)
-- Alice Raffaele ([araffaele@dei.unipd.it](mailto:araffaele@dei.unipd.it) – Università della Calabria & Università degli Studi di Padova)
-- Eugenia Taranto ([eugenia.taranto@unikore.it](mailto:eugenia.taranto@unikore.it) – Università degli Studi di Catania)
+- Gabriella Colajanni ([gabriella.colajanni@unict.it](mailto:gabriella.colajanni@unict.it) – University of Catania)
+- Alessandro Gobbi ([alessandro.gobbi@unibs.it](mailto:alessandro.gobbi@unibs.it) – University of Brescia)
+- Alice Raffaele ([araffaele@dei.unipd.it](mailto:araffaele@dei.unipd.it) – University of Calabria & University of Padova)
+- Eugenia Taranto ([eugenia.taranto@unikore.it](mailto:eugenia.taranto@unikore.it) – Kore University of Enna)
 
 **Map of ROAR initiatives in Italy**
 You can look at the several initiatives we have done (or are still ongoing) in this Google [map](https://www.google.com/maps/d/u/7/edit?mid=1TZ_bkiA1J3df4AlVr38XmRQ9di1q2Lg&usp=sharing).
