@@ -1,0 +1,16 @@
+DEPOTS 1 // List of depots
+// Each depot is described by its name, location, latitude, and longitude
+FILTREC TELGATE DEP_LAT_1 DEP_LON_2
+
+CLIENTS 16 // List of contractors
+// Each contractor is described by its ID, location, latitude, longitude, and demand (# of pallets to be delivered)
+1 LOCATION_1 LAT_1 LON_2 4
+2 LOCATION_2 LAT_2 LON_2 2
+3 LOCATION_3 LAT_3 LON_3 3
+...
+
+VEHICLES 3 // Available vehicles
+// Each vehicle is described by its ID, depot, maximum capacity (# of pallets), maximum routing time (minutes), and daily cost (€)
+V1 FILTREC 23 480 600
+V2 FILTREC 23 480 600
+V3 FILTREC 23 480 600
