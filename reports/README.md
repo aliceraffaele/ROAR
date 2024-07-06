@@ -15,8 +15,9 @@ Presentazioni e articoli scientifici relativi alle attività di ROAR.
 - `202211_SCX_ROAR.pdf`: presentazione su tutto il progetto ROAR, fatta a novembre 2022 durante [SCX4](https://files.eun.org/scientix/ScientixConference_agenda_compressed. pdf).
 - “An Operations Research–Based Teaching Unit for Grade 11: The ROAR Experience, Part II”, un articolo scientifico pubblicato su [INFORMS Transactions on Education](https://pubsonline.informs.org/doi/10.1287/ited.2023.0001) per descrivere in dettaglio la progettazione e l'implementazione di ROAR II.
 - `202309_ODS2023_ROAR_III.pdf`: presentazione su ROAR III, fatta a settembre 2023 durante [ODS 2023](http://www.airoconference.it/ods2023/).
+- `202407_EURO2024_ROAR.pdf`: presentazione su tutto il progetto ROAR, fatta a luglio 2024 durante [EURO 2024](https://euro2024cph.dk).
 
-*Ultimo aggiornamento: 12 settembre 2023.*
+*Ultimo aggiornamento: 06 luglio 2024.*
 
 --------------------------------------------------------------------------------------
 ENGLISH VERSION
@@ -35,5 +36,6 @@ Presentations and scientific papers related to the ROAR activities.
 - `202211_SCX_ROAR.pdf`: presentation about the whole ROAR project, given in November 2022 during the [4th Scientix International Conference](https://files.eun.org/scientix/ScientixConference_agenda_compressed.pdf).
 - “*An Operations Research–Based Teaching Unit for Grade 11: The ROAR Experience, Part II*”, a scientific paper published on [INFORMS Transactions on Education](https://pubsonline.informs.org/doi/10.1287/ited.2023.0001) to completely describe the design and the implementation of ROAR II.
 - `202309_ODS2023_ROAR_III.pdf`: presentation on ROAR III, given in September 2023 during [ODS 2023](http://www.airoconference.it/ods2023/).
+- `202407_EURO2024_ROAR.pdf`: presentation about the whole ROAR project, given in July 2024 during the [EURO 2024](https://euro2024cph.dk).
 
-*Last update: September 12, 2023.*
+*Last update: July 06, 2024.*
